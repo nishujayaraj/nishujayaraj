@@ -5,4 +5,4 @@ I'm Nischitha S Jayaraja, an aspiring Data Scientist and Backend Developer curre
 Feel free to reach out:
 
 - Email: [njayaraja9409@sdsu.edu](mailto:njayaraja9409@sdsu.edu)
-- LinkedIn: [linkedin.com/in/nischitha-s-jayaraja](https://www.linkedin.com/in/nischitha-s-jayaraja/)
+- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/nischithasjayaraja)
