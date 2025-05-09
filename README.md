@@ -5,4 +5,7 @@ I'm Nischitha S Jayaraja, a CS Grad student at the San Diego State University. W
 Feel free to reach out:
 
 - Email: [njayaraja9409@sdsu.edu](mailto:njayaraja9409@sdsu.edu)
+
+Looking forward to connect on:
 - <a href="https://www.linkedin.com/in/nischithasjayaraja/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="24"/></a>
+- <a href="https://www.instagram.com/nishu_jayaraj/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="Instagram" width="24"/></a>
