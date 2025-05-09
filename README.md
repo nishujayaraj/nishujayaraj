@@ -1,9 +1,12 @@
 # Hello there 👋
 
-I'm Nischitha S Jayaraja, a CS Grad student at the San Diego State University. With a background as a DevOps Engineer in the EV-charging industry, I enjoy building robust CI/CD pipelines, designing scalable data architectures, and applying machine learning—especially NLP and deep learning—to real‑world problems.  
+I’m Nischitha S Jayaraja, a CS Grad student at San Diego State University.
+Lately, I’ve developed a strong interest in Data Science and Machine Learning, and I’m especially fascinated by how deep neural networks can be applied to solve real-world challenges.
+I come from a DevOps and Software Development background,now diving deep into Machine Learning, exploring areas like NLP, deep learning, and data-driven problem solving.
+
+Currently learning about Gradients and Activation.
 
 Feel free to reach out:
-
 - Email: [njayaraja9409@sdsu.edu](mailto:njayaraja9409@sdsu.edu)
 
 Looking forward to connect on:
